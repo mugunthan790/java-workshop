@@ -7,3 +7,6 @@ key words
 loop
 jar
 control statment
+ hostal class 
+ hostal extend building 
+acadimic building extend building     
