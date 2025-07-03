@@ -9,4 +9,7 @@ jar
 control statment
  hostal class 
  hostal extend building 
-acadimic building extend building     
+acadimic building extend building     priv is mess ava 
+no rom
+pri lib ava 
+pri audi 
