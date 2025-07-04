@@ -9,6 +9,7 @@ public class Employees {
         employee [2][0]="viky";
         employee [2][1]="30,000";
         employee [3][0]="Arun";
+        employee [3][1]="46,000";
         for(String []employee:employee){
         System.out.println(Array.toString (employee));
         }
