@@ -1,15 +1,16 @@
 public class StringBuilder {
+    
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
-        sb.append(str:"java")
-        sb.append(str:" is");
-        sb.append(str:" the");
-        sb.append(str:" most");
-        sb.append(str:" used");
-        sb.append(str:" language");
-        sb.append(str:" for");
-        sb.append(str:" enterprise");
-        sb.append(str:" applications");
+        sb.append("java");
+        sb.append(" is");
+        sb.append(" the");
+        sb.append(" most");
+        sb.append(" used");
+        sb.append(" language");
+        sb.append(" for");
+        sb.append(" enterprise");
+        sb.append(" applications");
         System.out.println(sb.toString());
     }
 }

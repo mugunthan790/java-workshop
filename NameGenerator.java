@@ -1,0 +1,20 @@
+public class NameGenerator {
+    import java.util.Scanner;
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter your name: ");
+        String name = scanner.nextLine();
+        System.out.println("Enter your gender:");
+        String gender = scanner.nextLine();
+        System.out.println("Enter your qualification");
+        String qualification = scanner.nextLine();
+        if("male".equals(gender)){
+            System.out.println("MR"+name);
+
+        }
+    else{
+        System.out.println("MISS"+name);
+    }
+    System.out.println(qualification);
+}
+}
