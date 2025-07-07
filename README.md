@@ -13,3 +13,4 @@ acadimic building extend building     priv is mess ava
 no rom
 pri lib ava 
 pri audi 
+java strings are importable 
