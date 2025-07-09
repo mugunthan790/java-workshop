@@ -19,6 +19,7 @@ public class Calculator {
             return 0;
         }
         return a / b;
+<<<<<<< HEAD
     }
     public int add(int a, int b){
         return a+b;
@@ -36,5 +37,21 @@ public class Calculator {
 }
     
       
+=======
+>>>>>>> 3fdb03ece9e0a3316c381584791b615c1c1806a3
     }
+    public int add(int a, int b){
+        return a+b;
+    }
+
+    public static void main(String[] args) {
+
+        Calculatorexample calculator = new Calculatorexample();
+        System.out.println("Division: " + calculator.divide(6, 2));
+         System.out.println("Addition :"+ calculator.add(6, 3));
+        // System.out.println("Subtraction: " + calculator.subtract(10, 4));
+
+    }
+
 }
+    
